@@ -1,0 +1,23 @@
+{
+    "name": "CarouselData",
+    "version": 1.12,
+    "data": [{
+        "brandName": "images/anyrun_kinomap.png",
+        "weight": 1
+    }, {
+        "brandName": "images/bhfitness_kinomap.png",
+        "weight": 8
+    }, {
+        "brandName": "images/btwin_kinomap.png",
+        "weight": 5
+    }, {
+        "brandName": "images/domyos_kinomap.png",
+        "weight": 9
+    }, {
+        "brandName": "images/ftms_kinomap.png",
+        "weight": 3
+    }, {
+        "brandName": "images/tunturi_kinomap.png",
+        "weight": 2
+    }]
+}
